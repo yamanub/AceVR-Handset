@@ -10,9 +10,11 @@ One piece handset with extended mag
 
 Three piece handset with removeable slide and magwell
 
-Removable slide version uses (3) M2 socket head screws (1) at the front under the barrel and (2) next to trigger guard
+Removable slide version uses (5) M2x12 socket head screws 
 
-Magwell can be glued on
+(1) at the front under the barrel and (2) next to trigger guard
+
+Magwell has (2) M2 screws on bottom
 
 Trigger and mag release are designed for this handset, but might work on other models provided by other creators.
 
