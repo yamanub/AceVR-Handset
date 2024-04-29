@@ -4,7 +4,7 @@
 
 Several different versions of the Rival S to choose from.
 
-One piece handset without extended mag
+# One piece handset without extended mag
 
 One piece handset with extended mag
 
