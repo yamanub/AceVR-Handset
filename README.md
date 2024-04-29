@@ -16,6 +16,6 @@ Removable slide version uses (5) M2x12 socket head screws.
 (1) at the front under the barrel and (2) next to trigger guard.
 Magwell has (2) M2 screws on bottom.
 
-Trigger and mag release are designed for this handset, but might work on other models by other creators.
+Trigger and mag release are designed for this handset, but might work on other models by other creators. The mag release button uses (1) M3x6 button head screw
 
 Check out ACE VR at their website https://www.acexr.com/
